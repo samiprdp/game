@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the Magic-Matric Game 1.0
+---------------------------------------------------
+
+app_name - 						Magic-Matric Game
+app_alias - 					magicmatricgame
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Bagmati
+app_author_country - 			Nepal
+app_password - 					qjlk3OBdnckR
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Tuesday 20th of June 2023 10:29:25 AM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
